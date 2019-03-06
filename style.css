@@ -1,0 +1,22 @@
+h1{
+	padding: 10px;
+	color: #ee1c25;
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+	font-style: oblique;
+}
+p{
+	float:right;
+}
+.test{
+	float: left;
+	color: #6bc0b4;
+}
+li{
+	font-size:25px;
+}
+
+.otro{
+	font-size: 12px;
+	color: blue;
+}
